@@ -1,7 +1,7 @@
 
 ### Streamyard clone
 
-Streamyard is an app that lets you stream from your browser to apps like twitch and youtube.
+Streamyard is an app that lets you stream from your browser to apps like Twitch and Youtube.
 The way it works is that it lets you add multiple video sources and then it streams the video to the streaming platform.
 It also lets you add overlays and other effects to the video.
 You can check out the website here - https://streamyard.com/
